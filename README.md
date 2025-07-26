@@ -29,8 +29,7 @@ Here are some screenshots of the ASCII Video Player in action:
 1. Clone this repository or download the source code:
 
 ```bash
-git clone https://github.com/Romeo509/ascii-video-player.git
-cd ascii-video-player
+git clone https://github.com/Aman-Kasa/aura_farming.git
 ```
 
 2. Install the required dependencies:
