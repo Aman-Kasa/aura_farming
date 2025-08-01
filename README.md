@@ -1,3 +1,4 @@
+![Aura farming boat kid indonesia](https://fbi.cults3d.com/uploaders/38536405/illustration-file/bc650f8c-09b7-4932-99af-04129e86798e/aura.png)
 # ASCII Video Player
 
 A Python-based terminal video player that converts videos to ASCII art and plays them directly in your terminal. This project transforms regular video files into text-based animations using ASCII characters, creating a unique retro-style viewing experience.
